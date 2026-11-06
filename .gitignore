@@ -1,0 +1,11 @@
+# Deze repository bevat enkel het eigen leermateriaal.
+# Alles in de map wordt genegeerd, behalve wat hieronder met ! is toegelaten.
+# Zo komen de cursusmappen (video's, zips, ondertitels) nooit per ongeluk mee.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/Java - leerboek V*.docx
+
+# Tijdelijke bestanden van Word (bestaan zolang een document open staat)
+~$*
