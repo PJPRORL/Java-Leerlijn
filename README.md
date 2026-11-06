@@ -9,7 +9,7 @@ Leerboek ter voorbereiding op een job als Java-developer: van de JVM tot microse
 | `Java - leerboek V3.docx` | de huidige versie: 10 delen, 112 hoofdstukken, 921 pagina's, 630 oefeningen met antwoord |
 | `Java - leerboek V2.docx` | deel 1 tot 9, 102 hoofdstukken (vervangen door V3) |
 | `Java - leerboek V1.docx` | deel 1 tot 4, 49 hoofdstukken (vervangen door V2) |
-| `Java Leerboek - Exercises - Deel 1.docx` | de oefeningen bij deel 1 (Java-basis): hoofdstuk 01 en 02, met uitgewerkte oplossingen |
+| `Java Leerboek - Exercises - Deel 1.docx` | de oefeningen bij deel 1 (Java-basis): hoofdstuk 01 tot en met 03, met uitgewerkte oplossingen |
 | `Oefeningen/` | dezelfde oefeningen en oplossingen als Markdown, met onderaan elke oplossing het volledige programma |
 
 ## Inhoud van het leerboek
@@ -41,7 +41,7 @@ De oefeningen staan los van het leerboek, in **Java Leerboek – Exercises**. Ze
 | Word | één bestand per deel van het leerboek: `Java Leerboek - Exercises - Deel <n>.docx` |
 | Markdown | `Oefeningen/Oefeningen` (opgaven), `Oefeningen/Oplossingen Oefeningen` (oplossingen), `Oefeningen/Ontwerp` (verhaallijn en vaste regels van de reeksen) |
 
-Klaar: hoofdstuk 01 en 02 van 24. Elk programma in de pure Java-hoofdstukken is per punt gecompileerd en uitgevoerd met Java 21; de voorbeelduitvoer en de nakijkpunten komen uit die runs.
+Klaar: hoofdstuk 01 tot en met 03 van 24; deel 1 is volledig. Elk programma in de pure Java-hoofdstukken is per punt gecompileerd en uitgevoerd met Java 21; de voorbeelduitvoer en de nakijkpunten komen uit die runs.
 
 ## Wat niet in deze repository staat
 
