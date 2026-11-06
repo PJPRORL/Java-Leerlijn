@@ -6,6 +6,12 @@
 !/.gitattributes
 !/README.md
 !/Java - leerboek V*.docx
+!/Java Leerboek - Exercises - Deel *.docx
+!/Oefeningen/
+
+# De gekochte cursussen staan in de map Cursussen en gaan nooit mee,
+# ook niet als hierboven ooit een regel bijkomt die er iets uit zou toelaten.
+/Cursussen/
 
 # Tijdelijke bestanden van Word (bestaan zolang een document open staat)
 ~$*

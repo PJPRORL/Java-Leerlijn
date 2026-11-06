@@ -9,6 +9,8 @@ Leerboek ter voorbereiding op een job als Java-developer: van de JVM tot microse
 | `Java - leerboek V3.docx` | de huidige versie: 10 delen, 112 hoofdstukken, 921 pagina's, 630 oefeningen met antwoord |
 | `Java - leerboek V2.docx` | deel 1 tot 9, 102 hoofdstukken (vervangen door V3) |
 | `Java - leerboek V1.docx` | deel 1 tot 4, 49 hoofdstukken (vervangen door V2) |
+| `Java Leerboek - Exercises - Deel 1.docx` | de oefeningen bij deel 1 (Java-basis): hoofdstuk 01 en 02, met uitgewerkte oplossingen |
+| `Oefeningen/` | dezelfde oefeningen en oplossingen als Markdown, met onderaan elke oplossing het volledige programma |
 
 ## Inhoud van het leerboek
 
@@ -27,6 +29,20 @@ Leerboek ter voorbereiding op een job als Java-developer: van de JVM tot microse
 
 Elk hoofdstuk heeft een Bronnen-regel die verwijst naar de video's van de cursussen, uitleg met codevoorbeelden, valkuilen en oefeningen. De pure Java-code (deel 1 tot 3 en deel 10) is uitgevoerd met Java 21.
 
+## Oefeningen
+
+De oefeningen staan los van het leerboek, in **Java Leerboek – Exercises**. Ze volgen de opbouw van de oefeningen van Programming Advanced (C#): een leerdoel, een opdracht in genummerde punten met één techniek per punt, en als laatste punt een samengestelde oefening. De oplossingen staan apart, met nakijkpunten, een aanpak, de code, veelgemaakte fouten en wat beter kan.
+
+| | |
+|---|---|
+| Hoofdstukken | 24, elk bij een of meer hoofdstukken van het leerboek |
+| Oefeningen | 6 per hoofdstuk, in zes reeksen die meegroeien van een console-app tot Kubernetes |
+| Reeksen | _01 Bit & Byte, artikelen ●○○ · _02 Bit & Byte, bestellingen ●●○ · _03 Bit & Byte, PC-configurator ●●● · _04 Dierenasiel ●○○ · _05 Fietsverhuur ●●○ · _06 Concertzaal ●●● |
+| Word | één bestand per deel van het leerboek: `Java Leerboek - Exercises - Deel <n>.docx` |
+| Markdown | `Oefeningen/Oefeningen` (opgaven), `Oefeningen/Oplossingen Oefeningen` (oplossingen), `Oefeningen/Ontwerp` (verhaallijn en vaste regels van de reeksen) |
+
+Klaar: hoofdstuk 01 en 02 van 24. Elk programma in de pure Java-hoofdstukken is per punt gecompileerd en uitgevoerd met Java 21; de voorbeelduitvoer en de nakijkpunten komen uit die runs.
+
 ## Wat niet in deze repository staat
 
-De cursussen zelf (video's, ondertitels, zips en democode) blijven lokaal in de map `Voorbereiding werk`. Ze zijn gekocht materiaal en mogen niet openbaar gedeeld worden, en ze zijn samen ongeveer 36 GB groot. Het bestand `.gitignore` zorgt ervoor dat git ze nooit meeneemt.
+De cursussen zelf (video's, ondertitels, zips en democode) blijven lokaal, in de map `Cursussen`. Ze zijn gekocht materiaal en mogen niet openbaar gedeeld worden, en ze zijn samen ongeveer 36 GB groot. Het bestand `.gitignore` zorgt ervoor dat git ze nooit meeneemt.
